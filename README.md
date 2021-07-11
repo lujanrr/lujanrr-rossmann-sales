@@ -13,6 +13,10 @@ Questão de negócios é: **"Quanto cada loja venderá nas próximas seis semana
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+Para acessar ao bot do modelo no telegram clique abaixo:
+
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](http://t.me/lujanrr_rossmann_bot)
+
 # Business Assumptions
 As seguintes suposições foram feitas sobre o problema de negócio:
 - Para lojas que não tinham informação de CompetitionDistance, assumiu-se que a distancia seria 2 vezes maior que a maior distancia de um competidor mais próximo.
@@ -65,7 +69,7 @@ Planejamento da solução:
 
 **Etapa 10. Deploy Model to Production:** Publique o modelo em um ambiente de nuvem para que outras pessoas ou serviços possam usar os resultados para melhorar a decisão de negócios.
 
-**Etapa 11. Telegram Bot:** Criação de um bot no aplicativo de mensagens telegram, para consultar a previsão a qualquer momento
+**Etapa 11. Telegram Bot:** Criação de um bot no aplicativo de mensagens telegram, para consultar a previsão a qualquer momento (http://t.me/lujanrr_rossmann_bot).
 
 
 # Top 4 Data Insights
