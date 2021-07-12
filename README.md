@@ -65,7 +65,7 @@ Planejamento da solução:
 
 **Etapa 08. Hyperparameter Fine Tunning:** Escolha os melhores valores para cada um dos parâmetros do modelo selecionado na etapa anterior.
 
-**Etapa 09. Converção do desempenho do modelo em valores de negócios:** Converta o desempenho do modelo  em um resultado de negócios.
+**Etapa 09. Conversão do desempenho do modelo em valores de negócios:** Converta o desempenho do modelo  em um resultado de negócios.
 
 **Etapa 10. Deploy Model to Production:** Publique o modelo em um ambiente de nuvem para que outras pessoas ou serviços possam usar os resultados para melhorar a decisão de negócios.
 
